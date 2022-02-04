@@ -1,0 +1,16 @@
+{
+  "id": "feedback-app",
+  "version": "0.0.1",
+  "name": "Feedback app",
+  "author": "Moa Hammarbäck, Webstep",
+  "description": "An app where you can leave feedback on a page",
+  "helpUrl": "https://developer.sitevision.se/webapps",
+  "type": "WebApp",
+  "bundled": true,
+  "requiredLibs": {
+    "react": "17.0.2"
+  },
+  "storage": {
+    "collectionDataStore": "feedbackStore"
+  }
+}

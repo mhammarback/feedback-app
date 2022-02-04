@@ -1,0 +1,10 @@
+{
+  "hello": "Hello",
+  "settings": "Settings",
+  "name": "Name",
+  "submit": "Submit",
+  "email": "Recipient of mail",
+  "toast-success" :"Feedback successfully sendt",
+  "inputPlaceholder" : "Please share your feedback on this page",
+  "hidden-webbapp" : "Write a text that will show instead of the webbapp in editor view"
+}

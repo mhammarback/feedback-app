@@ -1,0 +1,10 @@
+{
+  "hello": "Hej",
+  "settings": "Inställningar",
+  "name": "Namn",
+  "submit": "Skicka",
+  "email": "Mottagare av mail",
+  "toast-success" :"Feedback skickad!",
+  "inputPlaceholder" : "Här kan du skicka feedback på sidan",
+  "hidden-webbapp" : "Skriv en text som ska visas i redigeringsläget istället för webbappen"
+}
